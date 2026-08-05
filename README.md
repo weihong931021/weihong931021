@@ -1,15 +1,14 @@
-# 黃偉閎 · Wei-Hong Huang
+# Hi there, I'm Wei-Hong Huang! 👋
 
-**Information Management @ National Central University** · Artificial Intelligence credit program
-**IT Intern @ Advantech** — enterprise AI & workflow automation
+📍 Based in Taoyuan, Taiwan &nbsp;|&nbsp; 🎓 Information Management @ National Central University &nbsp;|&nbsp; 💼 IT Intern @ Advantech
 
-I build AI systems and full-stack products end to end — from data and model work, through backend services, to the interface people actually use. Focus: AI system design, multi-agent workflows, full-stack development, and Web3.
+*AI Systems | Multi-Agent Workflows | Full-Stack Development | Computer Vision | Web3*
 
-🌐 [weihongweb.com](https://weihongweb.com) · 💼 [LinkedIn](https://www.linkedin.com/in/%E5%81%89%E9%96%8E-%E9%BB%83-691227390/)
+Welcome to my GitHub profile! I build AI systems and full-stack products end to end — from data and model work, through backend services, to the interface people actually use. I care most about systems whose reasoning is traceable rather than a black box, and I'm always looking for the next problem worth building for.
 
 ---
 
-## Selected projects
+## 🚀 Featured Projects
 
 | Project | What it does | Stack |
 | --- | --- | --- |
@@ -23,7 +22,7 @@ I build AI systems and full-stack products end to end — from data and model wo
 
 ---
 
-## Stack
+## 🛠️ Technologies & Tools
 
 - **Languages** — Python · TypeScript · JavaScript · SQL · Solidity
 - **AI** — LangGraph · LangChain · RAG / GraphRAG · YOLOv11 · OpenCV · scikit-learn
@@ -33,10 +32,45 @@ I build AI systems and full-stack products end to end — from data and model wo
 
 ---
 
-## Also
+## 🏆 Recognition
 
-- 🏅 Prudential Life Hackathon finalist · Twin Cities Dashboard Hackathon finalist
+- 🥉 Honorable Mention — 2026 SYSTEX AI Ready Data Innovation Competition
+- 🎖️ Finalist — Prudential Life Hackathon · Twin Cities Dashboard Hackathon
+- 🥈 Semifinalist — LINE FRESH 2025 · 2025 RWA Hackathon
 - 📄 Co-authored paper accepted by IEEE ICCE-TW
 - 🎓 Google Analytics module instructor, NCU Big Data Summer Training Camp (2025)
 
-Open to internships and entry-level roles in AI systems, backend engineering, and full-stack product development.
+---
+
+## 🌟 Let's Connect!
+
+I'm always open to collaborating on interesting projects or discussing new ideas — and I'm currently looking for internships and entry-level roles in AI systems, backend engineering, and full-stack product development. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E5%81%89%E9%96%8E-%E9%BB%83-691227390/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://weihongweb.com)
+
+---
+
+## 🎉 Fun Fact
+
+I once shipped an entire AI investing assistant — Next.js frontend, FastAPI backend, full AWS serverless deployment, 262 backend tests — in a two-day hackathon. Off-screen I captain my department's badminton team. 🏸
+
+```python
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+class AIEngineer:
+    def __init__(self):
+        self.name = "Wei-Hong Huang"
+        self.role = "AI Systems & Full-Stack Developer"
+        self.school = "National Central University, Information Management"
+        self.languages = ["Python", "TypeScript", "JavaScript", "SQL", "Solidity"]
+        self.currently_building = "explainable multi-agent systems"
+
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something worth trusting.")
+
+
+me = AIEngineer()
+me.say_hi()
+```
